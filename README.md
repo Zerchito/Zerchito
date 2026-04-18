@@ -63,7 +63,6 @@ Soy **Desarrollador Full Stack** con más de 5 años de experiencia construyendo
 |--------|-------------|-------|
 | 🛒 [shopping-cart-api](https://github.com/Zerchito/shopping-cart-api) | REST API for e-commerce with cart management | REST API · Clean Architecture · TDD · TypeScript · Node.js · MongoDB |
 | 🧠 [algoExpert](https://github.com/Zerchito/algoExpert) | Algorithm practice and problem solving | TypeScript |
-| ⚛️ [react-project-2](https://github.com/Zerchito/react-project-2) | React application demo | JavaScript · React |
 
 ---
 
