@@ -29,6 +29,10 @@ I'm known for staying calm with complex problems. Debugging is my favorite part 
 
 I teach **Introduction to Programming** at Jala University. Helping someone write their first working program is one of the most rewarding parts of my week.
 
+## Languages
+
+🇧🇴 Spanish (native) · 🇬🇧 English (fluent) · 🇫🇷 French (B1)
+
 ## Tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
