@@ -57,6 +57,8 @@ I also use **Claude Code** daily for AI-assisted development.
 
 | Project | Description | Stack |
 |---|---|---|
+| [ai-task-manager](https://github.com/Zerchito/ai-task-manager) | AI task manager that prioritizes tasks and breaks them into subtasks with an LLM · [live demo](https://ai-task-manager-vercel.vercel.app) | React · TypeScript · Node.js · MongoDB · Groq |
+| [nest-car-value](https://github.com/Zerchito/nest-car-value) | REST API that estimates used-car prices from user reports, with admin approval and cookie-session auth | NestJS · TypeScript · TypeORM · SQLite |
 | [shopping-cart-api](https://github.com/Zerchito/shopping-cart-api) | E-commerce cart API built with Clean Architecture and TDD | TypeScript · Node.js · MongoDB |
 | [algoExpert](https://github.com/Zerchito/algoExpert) | Algorithm practice, a habit from my ICPC days | TypeScript |
 
